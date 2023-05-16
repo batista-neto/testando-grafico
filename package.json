@@ -1,0 +1,22 @@
+{
+    "name": "dfsafasdfasdfasdf",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@cubejs-client/core": "^0.33.0",
+        "axios": "^1.4.0",
+        "chart.js": "^4.3.0",
+        "parcel": "^2.8.3"
+    },
+    "devDependencies": {
+        "buffer": "^5.7.1"
+    }
+}
