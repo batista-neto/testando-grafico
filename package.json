@@ -14,9 +14,11 @@
         "@cubejs-client/core": "^0.33.0",
         "axios": "^1.4.0",
         "chart.js": "^4.3.0",
-        "parcel": "^2.8.3"
+        "parcel": "^2.8.3",
+        "react": "^18.2.0"
     },
     "devDependencies": {
-        "buffer": "^5.7.1"
+        "buffer": "^5.7.1",
+        "process": "^0.11.10"
     }
 }
